@@ -1,4 +1,8 @@
-﻿using Microsoft.Practices.Prism.Commands;
+/*
+The MIT License (MIT)
+Copyright (c) 2013 Sergey Serdyuk
+*/
+using Microsoft.Practices.Prism.Commands;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
